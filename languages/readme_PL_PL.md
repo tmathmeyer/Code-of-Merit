@@ -1,0 +1,13 @@
+- Niniejszy Kodeks Zasług nie powinien być konieczny. Fakt, że jest konieczny świadczy o tym, że coś jest nie tak z rozwiązaniami obecnie testowanymi przez środowisko programistów. Powinni zdać sobie z tego sprawę. Nie powinni także upierać się, że ich rozwiązanie jest jedynym słusznym.
+- Oprogramowanie jest jak natura: ewoluuje, więc najlepsze wdrożenie musi zwyciężyć.
+- Będziesz wnosił swój wkład i będziesz się uczył. Masz prawo do błędów.
+- Jesteśmy niedoskonali. Zdaj sobie sprawę ze swoich niedoskonałości i z niedoskonałości innych. Zrozum, że błędy nie są ostateczne i każdy dostaje drugą szansę. Nie oczekuj, że inni wykonają za ciebie twoją pracę lub że będą zawsze ci w niej pomagać. 
+- Molestowanie określone w prawie nie jest dozwolone. Zadawanie pytań nie stanowi molestowania Powtarzające się zapytania po tym, jak osoba zażyczyła wyłączenia jej z rozmowy, stanowi molestowanie. Różnica jest jasna.
+- Cenzura nie jest dozwolona. Próby uciszenia osób, które wyrażają konstruktywne opinie, nie są dozwolone. Uciszanie jadowitych wypowiedzi nie jest cenzurą. Różnica jest jasna.
+- W tym miejscu wykazujemy się umiejętnościami technicznymi. Nie ma tu miejsca na prowadzenie dyskusji lub działalności politycznych.
+- Wszystko co stanowi o indywidualności danej osoby, czyli jej ciało, płeć, preferencje seksualne, rasa, język, religia, narodowość, preferencje polityczne lub inne cechy, jest bez znaczenia w kontekście projektu technicznego.
+- Każda osoba jest inna, więc nikt nie będzie wspominał o tych różnicach. Dotyczy to także jednostki, która doświadcza tych różnic, je posiada, korzysta z nich lub cierpi z ich powodu. Jesteśmy wszyscy osobami, którym przyświeca wspólny cel samodoskonalenia i doskonalenia wspólnego projektu.
+- Nie ma miejsca na niejednoznaczność. Jeśli wypowiedź danej osoby jest niejasna, powinna ona dostarczyć więcej kontekstu. Reakcją na niejednoznaczność będą pytania. Reakcją na utrzymującą się niejednoznaczność będzie cisza.
+- Dyskusje, które nie będą mogły być rozwiązane w ramach projektu, zostaną przeniesione poza projekt. Zakłócanie pracy nad projektem nie jest dozwolone.
+- Każdy jest inny, ale także każdy ma te same prawa i te same możliwości podejmowania dowolnych wezwań. Nikomu nie zostanie odebrana szansa, żeby coś schrzanić.
+- Niniejszy Kodeks Zasług nie ma pierwszeństwa nad obowiązującym prawem.
