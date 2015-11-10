@@ -1,6 +1,6 @@
 # Code of Merit
 
-This Code of Merit should not be necessary. The fact that it necessary means there is something wrong with the solutions the software industry is trying. They should recognize that fact and not insist that their solution is the only solution.
+This Code of Merit should not be necessary. The fact that it is necessary means there is something wrong with the solutions the software industry is trying. They should recognize that fact and not insist that their solution is the only solution.
 
 1. Software is like nature: it evolves, so the best implementation must prevail.
 2. You will contribute, you will learn, and mistakes are allowed.
