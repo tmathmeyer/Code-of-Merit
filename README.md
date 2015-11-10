@@ -1,5 +1,7 @@
 # Code of Merit
 
+## A meritocratic code of conduct devoid of social politics.
+
 This Code of Merit should not be necessary. The fact that it is necessary means there is something wrong with the solutions the software industry is trying. They should recognize that fact and not insist that their solution is the only solution.
 
 1. Software is like nature: it evolves, so the best implementation must prevail.
